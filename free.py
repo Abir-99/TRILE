@@ -17,5 +17,5 @@
 #আসলি মাঘীর পোলা 
  
 import os
-import free
-free.login()
+import wiki-king_enc
+wiki-king_enc.login()
